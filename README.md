@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohammad Haidar Mestrah</h1>
 <h3 align="center">A passionate full stack web developer from Lebanon</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"/>
+<img align="right" alt="Coding" width="400" src="https://lottiefiles.com/animations/coding-Dw5DXgdj9t"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haidar-02&label=Profile%20views&color=0e75b6&style=flat" alt="haidar-02" /> </p>
 

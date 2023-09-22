@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" src="[https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC](https://png.pngtree.com/background/20210711/original/pngtree-blue-minimalistic-tech-computer-banner-poster-background-picture-image_1081883.jpg)"/>
+<img align="center" alt="Coding" width="400" src="https://png.pngtree.com/background/20210711/original/pngtree-blue-minimalistic-tech-computer-banner-poster-background-picture-image_1081883.jpg"/>
 
 <h1 align="center">Hi 👋, I'm Mohammad Haidar Mestrah</h1>
 <h3 align="center">A passionate full stack web developer from Lebanon</h3>
